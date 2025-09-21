@@ -1,4 +1,4 @@
-print("good afternoon")
+print("good mng")
 print("hiii")
 
 
